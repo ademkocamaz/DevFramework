@@ -1,0 +1,14 @@
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\DevFramework.Northwind.MvcWebUI.Tests.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\DevFramework.Northwind.MvcWebUI.Tests.pdb
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.csproj.AssemblyReference.cache
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.csproj.CopyComplete
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.dll
+C:\Users\ademk\source\repos\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.pdb
